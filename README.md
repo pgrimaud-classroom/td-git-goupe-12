@@ -1,7 +1,5 @@
 # TD GIT IPSSI
 
-Hello  world
+Hello world depuis la branche "Ibrahim"
 
-## Init
-
-mise à jour du README
+Hello world depuis chez Pierre
